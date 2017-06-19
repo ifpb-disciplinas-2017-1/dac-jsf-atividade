@@ -10,4 +10,4 @@ Para essa atividade é preciso implementar os seguintes requisitos:
 
 Essa aplicação deve ser desenvolvida utilizando JSF para a apresentação, a persistência é de livre escolha do aluno. 
 
-A implantação deve ocorrer via ** Docker **.
+A implantação deve ocorrer via *Docker*.
